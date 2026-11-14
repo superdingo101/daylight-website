@@ -57,7 +57,7 @@ Domain and certificate controls live in GitHub and Squarespace, not in this repo
 
 ## Editing
 
-Edit `index.html` for the copy, product links, styling, and screenshot URLs. The inline CSS keeps deployment simple. `favicon.svg` contains a small calendar-and-spark mark.
+Edit `index.html` for the copy, product links, styling, and screenshot URLs. The inline CSS keeps deployment simple. The favicon uses the same `docs/images/977.ico` configured in Calendar Card Mintlify (`docs/docs.json`). The header logo uses its `docs/images/976.png`. Both assets are referenced directly from the Card repository to keep branding consistent.
 
 This website is separate from both products and their Mintlify documentation. It advertises only functionality currently available publicly; hosted Daylight services are not advertised here.
 
